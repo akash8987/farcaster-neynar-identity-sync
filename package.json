@@ -1,0 +1,11 @@
+{
+  "name": "farcaster-neynar-identity-sync",
+  "version": "1.0.0",
+  "description": "High-concurrency Farcaster identity indexing framework powered by Neynar",
+  "main": "syncEngine.js",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "dotenv": "^16.4.5"
+  }
+}
